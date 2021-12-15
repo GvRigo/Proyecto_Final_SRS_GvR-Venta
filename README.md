@@ -7,7 +7,7 @@ Descripción de las versiones del proyecto final
 
 Tema: Especificación de Requisitos de Software (SRS)
 - :file_folder: _Versiones_:
- 	+ [3° avance del proyecto](https://github.com/GvRigo/Proyecto_Final_SRS_GvR-Venta/blob/78a00b7ec1164bd104097cd9bd2d0795b284238a/Especificacion_de_requisitos_de_Software_(GvR-Venta).pdf)
+ 	+ [> Trabajo Final 💻✨](https://github.com/GvRigo/Proyecto_Final_SRS_GvR-Venta/blob/78a00b7ec1164bd104097cd9bd2d0795b284238a/Especificacion_de_requisitos_de_Software_(GvR-Venta).pdf)
 		
 		[- Diagrama de Flujo](https://github.com/GvRigo/Proyecto_Final_SRS_GvR-Venta/blob/c2c5f3b860b451d2e3c1293167ad9194fba1d517/Diagrama%20de%20Flujo%20GvR-Ventas.png)
 
